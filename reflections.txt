@@ -1,0 +1,7 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+é criado uma pasta para controle de versao dos arquivos que estao nela. Para poder controlar as versões dos arquivos
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+Na area de preparacao você adiciona e/ou remove os arquivos antes de comitar as mudanças para o repositorio
+
+git config --global core.editor "'C:\DEV\programas\Notepad++Portable/Notepad++Portable.exe' -n -w"
