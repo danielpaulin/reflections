@@ -1,7 +1,27 @@
 O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
-é criado uma pasta para controle de versao dos arquivos que estao nela. Para poder controlar as versões dos arquivos
+é criado uma pasta para controle de versao dos arquivos que estao nela. Para poder controlar as versões 
+dos arquivos
 
-Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
-Na area de preparacao você adiciona e/ou remove os arquivos antes de comitar as mudanças para o repositorio
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você 
+acha que ela oferece?
+Na area de preparacao você adiciona e/ou remove os arquivos antes de comitar as mudanças para
+ o repositorio
 
-git config --global core.editor "'C:\DEV\programas\Notepad++Portable/Notepad++Portable.exe' -n -w"
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+Adicionando na stageg area somente os arquivos relacionados a aquela alteração.
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? 
+Como branches ajudariam?
+Voce pode criar versoes diferentes de seus arquivos/programas ou testar alguma novo recurso antes de
+disponibilizar a versao atual/MASTER
+As branches separam essas versões diferentes da versão atual/Master/PRD
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+Através dele você consegue visualizar quem é pai de quem dentro da arvore de branches
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+a inclusão das alteracoes de um do branches no outro, tornando tudo a mesma coisa.
+Para melhor visualização das informações
+
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+o controle da informações que estão sendo atualizadas

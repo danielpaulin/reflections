@@ -1,2 +1,9 @@
 Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
 Quando preciso acessar os arquivos de algum outro lugar sem ser meu computador ou para compartilhar as informações com outras pessoas.
+
+Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
+Para poder escolher quando efetuar um commit e não ficar commitando uma alteração indesejada.
+
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+bifurcacoes => são copias de branchs de outras pessoas e nelas você pode fazer alterações nos arquivos sem afetar os originais
+clone => é uma cópia local de uma branch 
