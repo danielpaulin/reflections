@@ -7,3 +7,7 @@ Para poder escolher quando efetuar um commit e não ficar commitando uma altera�
 Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
 bifurcacoes => são copias de branchs de outras pessoas e nelas você pode fazer alterações nos arquivos sem afetar os originais
 clone => é uma cópia local de uma branch 
+
+
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+Poder trabalhar com ele offline 
